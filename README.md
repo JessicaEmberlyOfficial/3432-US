@@ -43,6 +43,7 @@ Giving Housing to those who were wronged.
 ```
 
 APITA Files is a database of all of those who we are against (the wrong doers):
+
 • Trump Supporters
 
 • ICE Supporters
