@@ -4,7 +4,7 @@
 **3432** stands for **eYEZ** which is a **revolution party** that specializes in undoing each action taken by the regime.
 
 # WHO
-We stay **Anonymous**.
+We are **Anonymous**.
 
 # OPERATIONS
 **OP-AP**: The tarnishing of propagated information.
