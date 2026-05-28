@@ -1,6 +1,6 @@
 **Educational Purposes Only**
 
-**3432** is a global revolution party native to the U.S., and our goal is to fight fascism head-on.
+**3432** is a **global revolution party** native to the U.S., and our goal is to **fight fascism** head-on.
 
 ```
 This is a webpage for 3432's U.S. branch.
@@ -48,7 +48,7 @@ Giving canned foods to those who were wronged (either locally, or online via shi
 Giving Housing to those who were wronged.
 ```
 
-APITA Files is a database of all of those who we are against (the wrong doers):
+**APITA Files** is a database of all of those who we are against (the wrong doers):
 
 ```
 Trump Supporters
