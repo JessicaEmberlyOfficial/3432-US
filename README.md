@@ -26,6 +26,8 @@ OP-AP – The tarnishing of propagated information.
 OP-RF – Giving back to those affected by the regime (food, funding, and housing).
 
 OP-M – The monitoring of ICE.
+
+OP-P - The protection of communities.
 ```
 
 # Media Influence is:
