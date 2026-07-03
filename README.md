@@ -12,9 +12,9 @@ Tarnishing Propaganda by rewriting truthfully through media influence.
 
 Giving back to those who were affected by the regime (food, funding, and housing).
 
-On-Foot soldiers to protect the communities, and by helping guide those affected by the regime to safety using APITA Files.
-
 Monitoring ICE.
+
+On-Foot soldiers to protect the communities, and by helping guide those affected by the regime to safety using APITA Files.
 ```
 
 # Operations:
