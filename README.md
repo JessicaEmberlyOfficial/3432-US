@@ -27,7 +27,7 @@ OP-RF – Giving back to those affected by the regime (food, funding, and housin
 
 OP-M – The monitoring of ICE.
 
-OP-P - The protection of communities.
+OP-P - The protection of communities, and people online.
 ```
 
 # Media Influence is:
