@@ -10,11 +10,9 @@ This is a webpage for 3432's U.S. branch.
 ```
 Tarnishing Propaganda by rewriting truthfully through media influence.
 
-Giving back to those who were wronged.
+Giving back to those who were affected by the regime (food, funding, and housing).
 
-On-Foot soldiers to protect the community.
-
-Help guide those affected by the regime to safety using APITA Files.
+On-Foot soldiers to protect the communities, and by helping guide those affected by the regime to safety using APITA Files.
 
 Monitoring ICE.
 ```
