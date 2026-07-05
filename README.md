@@ -70,6 +70,8 @@ Intersexphobes
 Homophobes
 
 Enbyphobes
+
+Anti-Semitic
 ```
 
 You can use the link [APITAFiles](https://gofile.io/d/ZjL1NQ) to access the database.
