@@ -71,6 +71,8 @@ Homophobes
 
 Enbyphobes
 
+Racists
+
 Anti-Semitic
 ```
 
