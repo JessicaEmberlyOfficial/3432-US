@@ -78,6 +78,9 @@ Anti-Semitic
 
 You can use the link [APITAFiles](https://gofile.io/d/ZjL1NQ) to access the database.
 
+Operations:
+[OP-M](https://www.operation-monitor.info)
+
 If you want to join–contact [me](https://www.facebook.com/share/18bnFWHZCV/), or fill out this [form](https://forms.gle/sMUR5whP6ZFuVgJJ6) and I will get back to you.
 
 If you are affected by the regime please message us at: [apitafilms@gmail.com](mailto:apitafilms@gmail.com)
