@@ -6,17 +6,6 @@
 This is a webpage for 3432's U.S. branch.
 ```
 
-# We do that by:
-```
-Tarnishing Propaganda by rewriting truthfully through media influence.
-
-Giving back to those who were affected by the regime (food, funding, and housing).
-
-Monitoring ICE.
-
-On-Foot soldiers to protect the communities, and by helping guide those affected by the regime to safety using APITA Files.
-```
-
 # Operations:
 ```
 OP-AP – The tarnishing of propagated information.
@@ -26,6 +15,17 @@ OP-RF – Giving back to those affected by the regime (food, funding, and housin
 OP-M – The monitoring of ICE.
 
 OP-P - The protection of communities, and people online.
+```
+
+# We fight fascism by:
+```
+Tarnishing Propaganda by rewriting truthfully through media influence.
+
+Giving back to those who were affected by the regime (food, funding, and housing).
+
+Monitoring ICE.
+
+On-Foot soldiers to protect the communities, and by helping guide those affected by the regime to safety using APITA Files.
 ```
 
 # Media Influence is:
@@ -47,6 +47,7 @@ Giving canned foods to those who were wronged (either locally, or online via shi
 
 Giving Housing to those who were wronged.
 ```
+
 
 **APITA Files** is a database of all of those who we are against (the wrong doers):
 
@@ -78,7 +79,7 @@ Anti-Semitic
 
 You can use the link [APITAFiles](https://gofile.io/d/ZjL1NQ) to access the database.
 
-Operations:
+Operation Links:
 [OP-M](https://www.operation-monitor.info)
 
 If you want to join–contact [me](https://www.facebook.com/share/18bnFWHZCV/), or fill out this [form](https://forms.gle/sMUR5whP6ZFuVgJJ6) and I will get back to you.
