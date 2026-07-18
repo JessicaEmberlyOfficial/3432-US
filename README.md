@@ -82,6 +82,6 @@ You can use the link [APITAFiles](https://gofile.io/d/ZjL1NQ) to access the data
 Operation Links:
 [OP-M](https://www.operation-monitor.info)
 
-If you want to join–contact me on [Facebook](https://www.facebook.com/share/18bnFWHZCV/), or [email](mailto:apitafilms@gmail.com) me.
+If you want to join–contact me on [SimpleX](https://smp10.simplex.im/a#50ofxZl9-KaVja443t14Co9wBdJVSqmmn9aOiE6Far8).
 
 If you are affected by the regime please message us at: [apitafilms@gmail.com](mailto:apitafilms@gmail.com)
