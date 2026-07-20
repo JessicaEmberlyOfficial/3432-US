@@ -74,6 +74,8 @@ Enbyphobes
 
 Racists
 
+Xenophobic
+
 Anti-Semitic
 ```
 
