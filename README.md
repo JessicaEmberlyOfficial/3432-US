@@ -72,9 +72,11 @@ Homophobes
 
 Enbyphobes
 
+Biphobes
+
 Racists
 
-Xenophobic
+Xenophobes
 
 Anti-Semitic
 ```
